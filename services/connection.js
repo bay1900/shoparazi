@@ -7,8 +7,8 @@ var pool  = mysql.createPool( {
     user :  process.env.USERS,     
     password : process.env.PASSWORD,
     database : process.env.DATABASES,
-    port : process.env.PORT,
+    // port : process.env.PORT,
 })
 
 
-module.exports = pool;  
+module.exports = pool;   

@@ -1,0 +1,8 @@
+{"severity":"NOTICE","timestamp":"2024-04-28T14:10:16.366Z","id":48320,"service":"get_product","msg":"Success"}
+{"severity":"NOTICE","timestamp":"2024-04-28T14:10:27.151Z","id":48320,"service":"get_product","msg":"Success"}
+{"severity":"NOTICE","timestamp":"2024-04-29T02:33:15.582Z","id":50148,"service":"login","msg":"Success"}
+{"severity":"NOTICE","timestamp":"2024-04-29T02:37:56.011Z","id":50476,"service":"login","msg":"Success"}
+{"severity":"NOTICE","timestamp":"2024-04-29T02:38:14.434Z","id":50476,"service":"login","msg":"Success"}
+{"severity":"NOTICE","timestamp":"2024-04-29T02:38:53.483Z","id":50476,"service":"login","msg":"Success"}
+{"severity":"NOTICE","timestamp":"2024-04-29T02:39:04.966Z","id":50476,"service":"get_product","msg":"Success"}
+{"severity":"NOTICE","timestamp":"2024-04-29T02:39:06.825Z","id":50476,"service":"get_product","msg":"Success"}
