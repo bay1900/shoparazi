@@ -1,0 +1,21 @@
+{
+  "name": "tech_design_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mysql": "^2.18.1",
+    "node-cron": "^3.0.0",
+    "nodemon": "^3.1.0",
+    "pino": "^9.0.0",
+    "xlsx": "^0.18.5"
+  }
+}
